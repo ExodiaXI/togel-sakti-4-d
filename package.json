@@ -1,0 +1,15 @@
+{
+  "name": "togel-sakti-4-d",
+  "theme": "Togelsakti4D",
+  "version": "0.0.0",
+  "description": "Situs Betting Online Resmi Terpercaya Togelsakti4D",
+  "keywords": [
+    "Togelsakti4D",
+    "judionline"
+  ],
+  "repository": "https://github.com/ExodiaXI/togel-sakti-4-d",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
